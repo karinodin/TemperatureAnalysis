@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureAnalysis", "TemperatureAnalysis\TemperatureAnalysis.csproj", "{B216FFCF-665A-41EB-9A13-DCA3EE5E8F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B26CA683-A0C9-4788-8BDE-DAAD687F98AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B216FFCF-665A-41EB-9A13-DCA3EE5E8F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B216FFCF-665A-41EB-9A13-DCA3EE5E8F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B216FFCF-665A-41EB-9A13-DCA3EE5E8F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B216FFCF-665A-41EB-9A13-DCA3EE5E8F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26CA683-A0C9-4788-8BDE-DAAD687F98AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26CA683-A0C9-4788-8BDE-DAAD687F98AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26CA683-A0C9-4788-8BDE-DAAD687F98AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26CA683-A0C9-4788-8BDE-DAAD687F98AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
